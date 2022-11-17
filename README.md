@@ -5,6 +5,7 @@ Hi, I am Diar and I am a Software Engeneer with more than 4+ years of experience
 - 👋 Hi, I’m Diar Qoroviqi
 - 🌱 I have experience on: `php`, `js`, `html`, `css`, `vue`, `laravel`, `tailwind`, `alpine`, `inertia`, `livewire` 
 - 💬 Ping me about: **PHP**, **Laravel**, **Javascript**, **Vue**
+- 👀 Interested in 📖 and 🎣
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/diar-%C3%A7oroviqi/), [Twitter](https://twitter.com/DiarQoroviqi) and [Facebook](https://www.facebook.com/DiarQoroviqi)
 
 <!---
