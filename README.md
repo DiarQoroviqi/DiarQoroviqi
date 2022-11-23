@@ -3,7 +3,7 @@
 Hi, my name is Diar, I'm a full-stack web developper, currently living in [Kosovo 🇽🇰](https://www.google.com/maps/place/Mitrovica/@42.8778195,20.8552439,14z/data=!3m1!4b1!4m5!3m4!1s0x135345063679ba21:0xc24c0fe075e868e2!8m2!3d42.8913909!4d20.8659995). I am a crazy fan of Laravel :heart_eyes:! A super motivated developer with willignes to learn new technologies and an addicted problem solver :zap: :pill:
 
 ### ✅ Skills
-- Backend: `PHP`, `Laravel`
+- Backend: `PHP`, `Laravel`, `Node.js`
 - Frontend: `.html`, `.css`, `.vue`, `tailwind`, `alpine`, `inertia`
 - SPA, Web sockets
 - Unit testing, PEST, Continuous integration, Git, Docker, Monitoring
